@@ -1,0 +1,5 @@
+IP=database
+PORT=5432
+USER=docker
+PASSWORD=docker
+DBNAME=docker_db
